@@ -1,0 +1,1 @@
+cat licence | wc -l
